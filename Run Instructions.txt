@@ -1,4 +1,5 @@
-Just use this command in the terminal
+Just install the required frameworks using the Requirements.txt file 
+Python 3.7; Flask, etc.) and, after that, use this command in the terminal
 and enjoy:
 
 flask --app run.py run
