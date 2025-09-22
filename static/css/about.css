@@ -1,0 +1,10 @@
+.img-about{
+    border-radius: 50%;
+    width: 60% !important;
+} 
+.h4-about{
+    color: teal;
+}
+.card-about{
+    border: 0px !important;
+}
