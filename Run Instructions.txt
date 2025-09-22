@@ -1,0 +1,4 @@
+Just use this command in the terminal
+and enjoy:
+
+flask --app run.py run
