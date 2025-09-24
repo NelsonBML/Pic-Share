@@ -1,4 +1,4 @@
-Just install the required frameworks using the Requirements.txt file 
+Just install the required frameworks using the requirements.txt file 
 Python 3.7; Flask, etc.) and, after that, use this command in the terminal
 and enjoy:
 
